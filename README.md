@@ -1,1 +1,5 @@
-Data wrangling, Data analysis, Data modeling, evalution on laptop dataset using python
+Data wrangling, 
+Data analysis, 
+Data modeling, 
+Evaluation on laptop dataset 
+using python
